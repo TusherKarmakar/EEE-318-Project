@@ -1,0 +1,1 @@
+The objective of our project “Developing of A Floating Garbage Cleaning Robot for Water Body Surface” is to design and implement a robot that will help cleaning the dirt form the surface of a water body . As water is our daily necessity ,it needs to be cleaned for betterment. This project is designed in such a way that will easily collect the floating wastes from the water body.
